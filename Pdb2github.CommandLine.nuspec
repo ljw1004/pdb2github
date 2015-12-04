@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<package>
+ <metadata>
+    <id>Pdb2github.CommandLine</id>
+    <version>1.0.0</version>
+    <title>Pdb2github.CommandLine</title>
+    <summary>Build-time tools, so you can point your PDBs to Github source server</summary>
+    <description>This package has a powershell script. You will reference it, then tweak your .csproj to invoke it appropriately to modify your PDBs</description>
+    <authors>Lucian Wischik</authors>
+    <owners>Lucian Wischik</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/ljw1004/pdb2github</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/ljw1004/pdb2github/master/pdb2github.png</iconUrl>
+    <tags>pdb github source server sourceserver index build msbuild</tags>
+ </metadata>
+</package>
